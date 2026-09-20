@@ -16,7 +16,6 @@ def main() -> None:
         "description",
         "file_name",
         "external_url",
-        "background_color",
         *[f"attributes[{trait}]" for trait in trait_order],
     ]
 
@@ -32,7 +31,6 @@ def main() -> None:
                     item["description"],
                     Path(item["image"]).name,
                     item.get("external_url", ""),
-                    item.get("background_color", ""),
                     *[traits.get(trait, "") for trait in trait_order],
                 ]
             )
