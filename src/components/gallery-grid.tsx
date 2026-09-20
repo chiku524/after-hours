@@ -39,7 +39,7 @@ export function GalleryGrid() {
           <input
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search setting, signal, companion"
+            placeholder="Search rooms"
             className="h-9 w-full rounded-lg border border-input bg-background/60 px-3 text-sm outline-none placeholder:text-muted-foreground/70 focus-visible:ring-3 focus-visible:ring-ring/50"
           />
         </label>
