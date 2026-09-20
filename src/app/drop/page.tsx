@@ -13,8 +13,8 @@ const steps = [
     body: "Polygon keeps open-edition minting cheap for collectors. Ethereum is fine if you want the mainnet audience. Same assets either way.",
   },
   {
-    title: "Upload the 50 stills as 50 items",
-    body: "Each file in public/collection/stills/piece-01.png through piece-50.png is one token. Name them with the metadata titles (After Hours #1 — Tape Hiss, 2:14 AM, and so on). Paste the matching JSON from public/collection/metadata/ as the description and traits.",
+    title: "Upload the 50 stills and the metadata CSV",
+    body: "Each file in public/collection/stills/piece-01.png through piece-50.png is one token. In OpenSea Studio, open Media & Metadata and upload those PNGs together with public/collection/metadata.csv. The CSV maps token IDs to filenames, names, descriptions, and string traits.",
   },
   {
     title: "Set each item to unlimited",
@@ -70,6 +70,7 @@ export default function DropPage() {
         <h2 className="font-heading text-2xl">File map</h2>
         <ul className="mt-3 space-y-2 font-mono text-xs leading-6 text-muted-foreground">
           <li>public/collection/stills/piece-01.png–50.png — token images</li>
+          <li>public/collection/metadata.csv — OpenSea Studio metadata upload</li>
           <li>public/collection/metadata/1.json–50.json — OpenSea traits</li>
           <li>public/collection/cover.png — collection logo</li>
           <li>public/collection/banner.png — OpenSea banner</li>
@@ -78,6 +79,12 @@ export default function DropPage() {
           <Link href="/#rooms" className={cn(buttonVariants())}>
             Back to rooms
           </Link>
+          <a
+            href="/collection/metadata.csv"
+            className={cn(buttonVariants({ variant: "outline" }))}
+          >
+            Download OpenSea CSV
+          </a>
           <a
             href="/collection/metadata/_metadata.json"
             className={cn(buttonVariants({ variant: "outline" }))}
