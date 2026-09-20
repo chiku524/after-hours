@@ -10,7 +10,7 @@ export default function NotFound() {
       </p>
       <h1 className="font-heading mt-3 text-4xl">That room is dark.</h1>
       <p className="mt-3 text-sm text-muted-foreground">
-        No loop lives at this address. The tuner only goes from 01 to 50.
+        No still lives at this address. The tuner only goes from 01 to 50.
       </p>
       <Link href="/" className={cn(buttonVariants(), "mx-auto mt-6")}>
         Return to After Hours

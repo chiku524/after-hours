@@ -2,13 +2,13 @@
   "name": "After Hours",
   "symbol": "AFT",
   "slug": "after-hours-open",
-  "tagline": "50 open-edition lo-fi loops for the night that never clocks out.",
-  "description": "After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 2.4-second analog loops with grain, weather, and lamp flicker.",
+  "tagline": "50 open-edition lo-fi stills for the night that never clocks out.",
+  "description": "After Hours is a 50-piece open edition of lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever.",
   "sellerFeeBasisPoints": 500,
   "edition": "Open Edition",
   "supply": "Unlimited",
   "standard": "ERC-1155",
-  "loop": "2.4s / 10fps",
+  "medium": "Still PNG",
   "pieces": [
     {
       "id": 1,
@@ -21,7 +21,6 @@
       "hour": "2:14 AM",
       "mood": "Hushed",
       "palette": "Teal & burnt orange",
-      "animation": { "panX": 16, "panY": 10, "flicker": 0.02, "grain": 8, "scanlines": false },
       "blurb": "A sleeping cat, a warm tuner, and rain writing on the glass. The tape has been looping since yesterday."
     },
     {
@@ -35,7 +34,6 @@
       "hour": "11:48 PM",
       "mood": "In transit",
       "palette": "Cobalt & amber",
-      "animation": { "panX": 22, "panY": 6, "flicker": 0.012, "grain": 7, "scanlines": false },
       "blurb": "The last car heading out of town. City lights smear into the rain and nobody claims the backpack."
     },
     {
@@ -49,7 +47,6 @@
       "hour": "2:03 AM",
       "mood": "Sterile calm",
       "palette": "Mint & warm yellow",
-      "animation": { "panX": 8, "panY": 14, "flicker": 0.03, "grain": 6, "scanlines": true },
       "blurb": "Fog against the automatic doors. The coffee is still too hot and the magazines have nobody to sell to."
     },
     {
@@ -63,7 +60,6 @@
       "hour": "1:20 AM",
       "mood": "Dusty",
       "palette": "Tobacco & gold",
-      "animation": { "panX": 12, "panY": 16, "flicker": 0.018, "grain": 10, "scanlines": false },
       "blurb": "Crates of records under a single warm bulb. The turntable is still spinning something you almost remember."
     },
     {
@@ -77,7 +73,6 @@
       "hour": "12:41 AM",
       "mood": "Open air",
       "palette": "Silver-blue & peach",
-      "animation": { "panX": 18, "panY": 8, "flicker": 0.016, "grain": 6, "scanlines": false },
       "blurb": "Sheets becoming flags. The city is a quiet instrument under the clotheslines."
     },
     {
@@ -91,7 +86,6 @@
       "hour": "10:59 PM",
       "mood": "Tender",
       "palette": "Cream & espresso",
-      "animation": { "panX": 10, "panY": 12, "flicker": 0.015, "grain": 7, "scanlines": false },
       "blurb": "Chairs already up. One cup left on the wood, rain rehearsing on the window."
     },
     {
@@ -105,7 +99,6 @@
       "hour": "1:07 AM",
       "mood": "Submerged",
       "palette": "Aqua & plum",
-      "animation": { "panX": 9, "panY": 11, "flicker": 0.022, "grain": 5, "scanlines": false },
       "blurb": "The only conversation left is bubbles. The rest of the apartment has gone dark on purpose."
     },
     {
@@ -119,7 +112,6 @@
       "hour": "12:22 AM",
       "mood": "Focused",
       "palette": "Forest & honey",
-      "animation": { "panX": 7, "panY": 13, "flicker": 0.014, "grain": 6, "scanlines": false },
       "blurb": "Notes, tea, and a plant that has outgrown the assignment. The street outside is already asleep."
     },
     {
@@ -133,7 +125,6 @@
       "hour": "1:55 AM",
       "mood": "Mechanical",
       "palette": "Powder blue & peach",
-      "animation": { "panX": 14, "panY": 9, "flicker": 0.02, "grain": 7, "scanlines": false },
       "blurb": "One machine still working. The rest of the night is a circle of glass and suds."
     },
     {
@@ -147,7 +138,6 @@
       "hour": "3:11 AM",
       "mood": "Electric leftover",
       "palette": "Magenta & void",
-      "animation": { "panX": 11, "panY": 15, "flicker": 0.035, "grain": 9, "scanlines": true },
       "blurb": "The high scores are still glowing for nobody. Coins sleep in the slots."
     },
     {
@@ -161,7 +151,6 @@
       "hour": "12:08 AM",
       "mood": "Fogged",
       "palette": "Rose & slate",
-      "animation": { "panX": 8, "panY": 10, "flicker": 0.017, "grain": 6, "scanlines": false },
       "blurb": "Mirror gone. The street is a pink smear through steam and an open window."
     },
     {
@@ -175,7 +164,6 @@
       "hour": "1:44 AM",
       "mood": "Post-chorus",
       "palette": "Purple & gold",
-      "animation": { "panX": 13, "panY": 11, "flicker": 0.028, "grain": 8, "scanlines": true },
       "blurb": "The song list is still lit. Nobody is brave enough for one more."
     },
     {
@@ -189,7 +177,6 @@
       "hour": "10:36 PM",
       "mood": "Bookish",
       "palette": "Moss & parchment",
-      "animation": { "panX": 6, "panY": 16, "flicker": 0.013, "grain": 8, "scanlines": false },
       "blurb": "A green lamp keeping watch over towers of paper. Rain on the dormer like page turns."
     },
     {
@@ -203,7 +190,6 @@
       "hour": "12:53 AM",
       "mood": "Between floors",
       "palette": "Rust & night blue",
-      "animation": { "panX": 15, "panY": 12, "flicker": 0.016, "grain": 7, "scanlines": false },
       "blurb": "Two cups, wet steel, and the building breathing through other people's lights."
     },
     {
@@ -217,7 +203,6 @@
       "hour": "2:31 AM",
       "mood": "Archived",
       "palette": "Amber & dusty lilac",
-      "animation": { "panX": 10, "panY": 14, "flicker": 0.024, "grain": 11, "scanlines": false },
       "blurb": "Boxes of cassettes and a deck that still believes in VU meters. Moths keep the beat."
     },
     {
@@ -231,7 +216,6 @@
       "hour": "1:16 AM",
       "mood": "Waiting",
       "palette": "Ice & sodium orange",
-      "animation": { "panX": 12, "panY": 18, "flicker": 0.019, "grain": 7, "scanlines": false },
       "blurb": "The last bus is a rumor. Snow edits the timetable into white."
     },
     {
@@ -245,7 +229,6 @@
       "hour": "11:27 PM",
       "mood": "Humid",
       "palette": "Emerald & lantern gold",
-      "animation": { "panX": 9, "panY": 13, "flicker": 0.015, "grain": 5, "scanlines": false },
       "blurb": "Tropical leaves holding the day's heat. Condensation turning the moon into a smear."
     },
     {
@@ -259,7 +242,6 @@
       "hour": "3:02 AM",
       "mood": "Armed",
       "palette": "Charcoal & signal red",
-      "animation": { "panX": 8, "panY": 8, "flicker": 0.03, "grain": 8, "scanlines": true },
       "blurb": "Foam walls, a live mic, and a red lamp that forgot to go off. The mix is still warming up."
     },
     {
@@ -273,7 +255,6 @@
       "hour": "3:00 AM",
       "mood": "Domestic",
       "palette": "Chili red & cream",
-      "animation": { "panX": 11, "panY": 9, "flicker": 0.021, "grain": 7, "scanlines": true },
       "blurb": "The only recipe that still works after midnight. A tiny TV snows on the counter."
     },
     {
@@ -287,7 +268,6 @@
       "hour": "9:40 PM",
       "mood": "Hallowed",
       "palette": "Oak & hunter green",
-      "animation": { "panX": 7, "panY": 10, "flicker": 0.012, "grain": 6, "scanlines": false },
       "blurb": "The reading room after closing. One chair still reserved for a person who became a rumor."
     },
     {
@@ -301,7 +281,6 @@
       "hour": "12:17 AM",
       "mood": "Windy",
       "palette": "Concrete & amber",
-      "animation": { "panX": 20, "panY": 7, "flicker": 0.018, "grain": 8, "scanlines": false },
       "blurb": "Wind across the top deck. The skyline does the talking; the car is just visiting."
     },
     {
@@ -315,7 +294,6 @@
       "hour": "11:11 PM",
       "mood": "Off-season",
       "palette": "Sea teal & carnival pink",
-      "animation": { "panX": 17, "panY": 8, "flicker": 0.02, "grain": 7, "scanlines": false },
       "blurb": "Shutters down, ocean loud. The lights stayed on as a courtesy to nobody."
     },
     {
@@ -329,7 +307,6 @@
       "hour": "2:46 AM",
       "mood": "Liminal",
       "palette": "Mustard & burgundy",
-      "animation": { "panX": 19, "panY": 6, "flicker": 0.032, "grain": 9, "scanlines": true },
       "blurb": "Patterned carpet going on forever. The ice machine is the hallway's only heartbeat."
     },
     {
@@ -343,7 +320,6 @@
       "hour": "1:33 AM",
       "mood": "Backstreet",
       "palette": "Cyan & brick",
-      "animation": { "panX": 10, "panY": 14, "flicker": 0.025, "grain": 8, "scanlines": false },
       "blurb": "A row of machines selling cold light. The cat already chose a flavor."
     },
     {
@@ -357,7 +333,6 @@
       "hour": "1:01 AM",
       "mood": "Chrome",
       "palette": "Cherry red & mint",
-      "animation": { "panX": 12, "panY": 10, "flicker": 0.02, "grain": 7, "scanlines": false },
       "blurb": "The booth by the rain. Chrome, pie, and a clock that only tells neon."
     },
     {
@@ -371,7 +346,6 @@
       "hour": "2:28 AM",
       "mood": "Static",
       "palette": "Cathode blue & beige",
-      "animation": { "panX": 8, "panY": 9, "flicker": 0.04, "grain": 12, "scanlines": true },
       "blurb": "Every channel is weather. VHS spines watch the storm from the floor."
     },
     {
@@ -385,7 +359,6 @@
       "hour": "11:52 PM",
       "mood": "Overgrown",
       "palette": "Jungle & dusty pink",
-      "animation": { "panX": 7, "panY": 15, "flicker": 0.012, "grain": 5, "scanlines": false },
       "blurb": "A window that became a forest. The city is only allowed in as speckles."
     },
     {
@@ -399,7 +372,6 @@
       "hour": "12:36 AM",
       "mood": "Echo",
       "palette": "Tile cream & warning yellow",
-      "animation": { "panX": 21, "panY": 5, "flicker": 0.018, "grain": 8, "scanlines": false },
       "blurb": "Tiles, a yellow line, and a light that might be a train. The bench is practicing patience."
     },
     {
@@ -413,7 +385,6 @@
       "hour": "1:12 AM",
       "mood": "In progress",
       "palette": "Ink & lamp green",
-      "animation": { "panX": 6, "panY": 11, "flicker": 0.014, "grain": 6, "scanlines": false },
       "blurb": "A city half-drawn, ink still open. Polaroids of streets that already forgot their names."
     },
     {
@@ -427,7 +398,6 @@
       "hour": "12:04 AM",
       "mood": "Parked",
       "palette": "Amber & wet asphalt",
-      "animation": { "panX": 14, "panY": 8, "flicker": 0.017, "grain": 8, "scanlines": false },
       "blurb": "Engine off, radio not. Rain on the windshield is the music video."
     },
     {
@@ -441,7 +411,6 @@
       "hour": "10:18 PM",
       "mood": "Washed",
       "palette": "Vermillion & wet stone",
-      "animation": { "panX": 11, "panY": 13, "flicker": 0.013, "grain": 6, "scanlines": false },
       "blurb": "Lanterns still doing their job. Gravel shining, maple dripping, one umbrella off duty."
     },
     {
@@ -455,7 +424,6 @@
       "hour": "2:52 AM",
       "mood": "Logged in",
       "palette": "Beige plastic & screen blue",
-      "animation": { "panX": 13, "panY": 9, "flicker": 0.026, "grain": 9, "scanlines": true },
       "blurb": "A whole room of machines dreaming in color. Energy drinks keeping the chairs warm."
     },
     {
@@ -469,7 +437,6 @@
       "hour": "9:12 PM",
       "mood": "Closing bloom",
       "palette": "Blush & kraft",
-      "animation": { "panX": 9, "panY": 12, "flicker": 0.015, "grain": 6, "scanlines": false },
       "blurb": "The shutter is halfway down. Flowers that didn't get adopted wait in paper coats."
     },
     {
@@ -483,7 +450,6 @@
       "hour": "11:08 PM",
       "mood": "Communal quiet",
       "palette": "Fairy gold & courtyard teal",
-      "animation": { "panX": 12, "panY": 14, "flicker": 0.019, "grain": 7, "scanlines": false },
       "blurb": "Laundry, citrus pots, and a radio playing for the whole building whether they asked or not."
     },
     {
@@ -497,7 +463,6 @@
       "hour": "10:44 PM",
       "mood": "Held note",
       "palette": "Walnut & cream",
-      "animation": { "panX": 7, "panY": 8, "flicker": 0.011, "grain": 5, "scanlines": false },
       "blurb": "The metronome is still. Sheet music stacked like unsent letters."
     },
     {
@@ -511,7 +476,6 @@
       "hour": "8:55 PM",
       "mood": "Otherworld",
       "palette": "Ocean blue & gold",
-      "animation": { "panX": 10, "panY": 12, "flicker": 0.023, "grain": 4, "scanlines": false },
       "blurb": "After the last ticket. Fish commute overhead and the floor keeps rewriting light."
     },
     {
@@ -525,7 +489,6 @@
       "hour": "12:29 AM",
       "mood": "Remembered",
       "palette": "Tungsten & white border",
-      "animation": { "panX": 8, "panY": 11, "flicker": 0.016, "grain": 7, "scanlines": false },
       "blurb": "A wall of nights already developed. The blinds slice the street into film stills."
     },
     {
@@ -539,7 +502,6 @@
       "hour": "1:41 AM",
       "mood": "Connected",
       "palette": "Booth gold & storm blue",
-      "animation": { "panX": 9, "panY": 13, "flicker": 0.022, "grain": 8, "scanlines": false },
       "blurb": "A glass room built for weather. The receiver dangles like it almost had news."
     },
     {
@@ -553,7 +515,6 @@
       "hour": "9:03 PM",
       "mood": "Sheltered",
       "palette": "Pine & ember",
-      "animation": { "panX": 8, "panY": 10, "flicker": 0.018, "grain": 8, "scanlines": false },
       "blurb": "Snow pines pressed to the glass. Inside, a stove and a record that knows how to last."
     },
     {
@@ -567,7 +528,6 @@
       "hour": "1:19 AM",
       "mood": "Delayed",
       "palette": "Terminal grey & runway blue",
-      "animation": { "panX": 16, "panY": 7, "flicker": 0.014, "grain": 6, "scanlines": false },
       "blurb": "The terminal practicing emptiness. A plane parked like a sleeping animal beyond the glass."
     },
     {
@@ -581,7 +541,6 @@
       "hour": "11:23 PM",
       "mood": "Passed by",
       "palette": "Awning red & puddle neon",
-      "animation": { "panX": 13, "panY": 11, "flicker": 0.016, "grain": 7, "scanlines": false },
       "blurb": "A bike waiting out the weather. The awning does what roofs do, only smaller."
     },
     {
@@ -595,7 +554,6 @@
       "hour": "12:47 AM",
       "mood": "Cinematic",
       "palette": "Gold beam & loft indigo",
-      "animation": { "panX": 10, "panY": 12, "flicker": 0.02, "grain": 9, "scanlines": true },
       "blurb": "A movie with no actors, only dust. Floor cushions facing a rectangle of warmth."
     },
     {
@@ -609,7 +567,6 @@
       "hour": "10:07 PM",
       "mood": "Closed-open",
       "palette": "Candy stripe & chrome",
-      "animation": { "panX": 8, "panY": 9, "flicker": 0.024, "grain": 7, "scanlines": false },
       "blurb": "Mirrors rehearsing neon. The pole still spinning for a street with no haircuts left."
     },
     {
@@ -623,7 +580,6 @@
       "hour": "1:03 AM",
       "mood": "Due tomorrow",
       "palette": "Dorm navy & muted yellow",
-      "animation": { "panX": 7, "panY": 10, "flicker": 0.015, "grain": 6, "scanlines": false },
       "blurb": "Textbooks in a pile that counts as architecture. The lofted bed is a second sky."
     },
     {
@@ -637,7 +593,6 @@
       "hour": "11:39 PM",
       "mood": "Chlorine hush",
       "palette": "Chlorine blue & hotel gold",
-      "animation": { "panX": 14, "panY": 8, "flicker": 0.017, "grain": 5, "scanlines": false },
       "blurb": "Water holding the lights still. Outside the glass wall, the real weather keeps working."
     },
     {
@@ -651,7 +606,6 @@
       "hour": "3:33 AM",
       "mood": "Broadcast",
       "palette": "Broadcast red & walnut",
-      "animation": { "panX": 9, "panY": 8, "flicker": 0.027, "grain": 8, "scanlines": true },
       "blurb": "The city through blinds, a board of sliders, and a lamp that means someone is still talking."
     },
     {
@@ -665,7 +619,6 @@
       "hour": "10:51 PM",
       "mood": "Last sale",
       "palette": "Lantern amber & indigo",
-      "animation": { "panX": 12, "panY": 11, "flicker": 0.019, "grain": 7, "scanlines": false },
       "blurb": "Tarps folding, lanterns lingering. The market turning back into a street."
     },
     {
@@ -679,7 +632,6 @@
       "hour": "9:58 PM",
       "mood": "Soft closed",
       "palette": "Cream & dusty rose",
-      "animation": { "panX": 8, "panY": 10, "flicker": 0.013, "grain": 6, "scanlines": false },
       "blurb": "Cups empty, cats clocked out. Rain making the window the best seat in the house."
     },
     {
@@ -693,7 +645,6 @@
       "hour": "2:09 AM",
       "mood": "Looking up",
       "palette": "Navy & tea-steam gold",
-      "animation": { "panX": 6, "panY": 9, "flicker": 0.012, "grain": 7, "scanlines": false },
       "blurb": "A dome cracked open for the sky. Two cups, one thermos, infinite internight."
     },
     {
@@ -707,7 +658,6 @@
       "hour": "11:56 PM",
       "mood": "Rinsed",
       "palette": "Hinoki & steam white",
-      "animation": { "panX": 9, "panY": 8, "flicker": 0.02, "grain": 6, "scanlines": true },
       "blurb": "Lockers and leftover steam. Somewhere past the noren, the water is still loud."
     }
   ]

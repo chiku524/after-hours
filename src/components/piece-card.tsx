@@ -1,24 +1,16 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
-import { gifPath, padId, stillPath, type Piece } from "@/lib/collection";
+import { padId, stillPath, type Piece } from "@/lib/collection";
 
 export function PieceCard({ piece }: { piece: Piece }) {
-  const [playing, setPlaying] = useState(false);
-
   return (
-    <Link
-      href={`/piece/${piece.id}`}
-      className="group block"
-      onMouseEnter={() => setPlaying(true)}
-      onMouseLeave={() => setPlaying(false)}
-    >
+    <Link href={`/piece/${piece.id}`} className="group block">
       <article className="overflow-hidden rounded-xl bg-card ring-1 ring-foreground/10 transition group-hover:-translate-y-0.5 group-hover:ring-primary/40">
         <div className="scan-frame relative aspect-square overflow-hidden bg-black">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={playing ? gifPath(piece.id) : stillPath(piece.id)}
+            src={stillPath(piece.id)}
             alt={piece.name}
             className="h-full w-full object-cover"
           />

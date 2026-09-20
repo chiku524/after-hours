@@ -13,8 +13,8 @@ const steps = [
     body: "Polygon keeps open-edition minting cheap for collectors. Ethereum is fine if you want the mainnet audience. Same assets either way.",
   },
   {
-    title: "Upload the 50 GIFs as 50 items",
-    body: "Each file in public/collection/gifs/01.gif through 50.gif is one token. Name them with the metadata titles (After Hours #1 — Tape Hiss, 2:14 AM, and so on). Paste the matching JSON from public/collection/metadata/ as the description and traits.",
+    title: "Upload the 50 stills as 50 items",
+    body: "Each file in public/collection/stills/piece-01.png through piece-50.png is one token. Name them with the metadata titles (After Hours #1 — Tape Hiss, 2:14 AM, and so on). Paste the matching JSON from public/collection/metadata/ as the description and traits.",
   },
   {
     title: "Set each item to unlimited",
@@ -26,7 +26,7 @@ const steps = [
   },
   {
     title: "Optional: pin to IPFS",
-    body: "If you self-host tokenURI, upload public/collection/gifs plus cover.png and banner.png, then replace YOUR_CID in the metadata JSON. The gallery also serves /api/metadata/{id} for local testing.",
+    body: "If you self-host tokenURI, upload public/collection/stills plus cover.png and banner.png, then replace YOUR_CID in the metadata JSON. The gallery also serves /api/metadata/{id} for local testing.",
   },
 ];
 
@@ -45,8 +45,8 @@ export default function DropPage() {
         List After Hours as 50 open editions
       </h1>
       <p className="mt-4 text-sm leading-7 text-foreground/80">
-        {collection.description} The files in this repo are drop-ready: looping
-        GIFs, OpenSea-shaped metadata, cover, and banner.
+        {collection.description} The files in this repo are drop-ready: square
+        PNG stills, OpenSea-shaped metadata, cover, and banner.
       </p>
 
       <div className="mt-8 overflow-hidden rounded-xl ring-1 ring-foreground/10">
@@ -69,8 +69,7 @@ export default function DropPage() {
       <div className="mt-10 rounded-xl bg-card px-5 py-5 ring-1 ring-foreground/10">
         <h2 className="font-heading text-2xl">File map</h2>
         <ul className="mt-3 space-y-2 font-mono text-xs leading-6 text-muted-foreground">
-          <li>public/collection/gifs/01.gif–50.gif — token images</li>
-          <li>public/collection/stills/piece-01.png–50.png — master frames</li>
+          <li>public/collection/stills/piece-01.png–50.png — token images</li>
           <li>public/collection/metadata/1.json–50.json — OpenSea traits</li>
           <li>public/collection/cover.png — collection logo</li>
           <li>public/collection/banner.png — OpenSea banner</li>

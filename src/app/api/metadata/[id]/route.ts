@@ -11,12 +11,11 @@ export async function GET(
     return NextResponse.json({ error: "Token not found" }, { status: 404 });
   }
 
-  const file = `${padId(piece.id)}.gif`;
+  const file = `piece-${padId(piece.id)}.png`;
   return NextResponse.json({
     name: `${collection.name} #${piece.id} — ${piece.name}`,
     description: `${piece.blurb} ${collection.description}`,
-    image: `/collection/gifs/${file}`,
-    animation_url: `/collection/gifs/${file}`,
+    image: `/collection/stills/${file}`,
     external_url: `/piece/${piece.id}`,
     background_color: "100e0c",
     attributes: [
@@ -29,7 +28,7 @@ export async function GET(
       { trait_type: "Mood", value: piece.mood },
       { trait_type: "Palette", value: piece.palette },
       { trait_type: "Edition", value: collection.edition },
-      { trait_type: "Loop", value: collection.loop },
+      { trait_type: "Medium", value: collection.medium },
     ],
   });
 }

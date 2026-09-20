@@ -14,13 +14,6 @@ export type Piece = {
   mood: string;
   palette: string;
   blurb: string;
-  animation: {
-    panX: number;
-    panY: number;
-    flicker: number;
-    grain: number;
-    scanlines: boolean;
-  };
 };
 
 export const collection = data;
@@ -33,10 +26,6 @@ export function padId(id: number) {
 
 export function getPiece(id: number) {
   return pieces.find((piece) => piece.id === id);
-}
-
-export function gifPath(id: number) {
-  return `/collection/gifs/${padId(id)}.gif`;
 }
 
 export function stillPath(id: number) {

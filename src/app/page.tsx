@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { GalleryGrid } from "@/components/gallery-grid";
 import { buttonVariants } from "@/components/ui/button";
-import { collection, gifPath, pieces } from "@/lib/collection";
+import { collection, pieces, stillPath } from "@/lib/collection";
 import { cn } from "@/lib/utils";
 
 export default function Home() {
@@ -26,12 +26,12 @@ export default function Home() {
               {collection.name}
             </h1>
             <p className="mt-4 max-w-md text-sm leading-7 text-foreground/80 sm:text-base">
-              {collection.tagline} Fifty unique looping rooms — rain, static,
-              last trains, sento steam — each minted as its own open edition.
+              {collection.tagline} Fifty unique rooms — rain, static, last
+              trains, sento steam — each minted as its own open edition still.
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
               <Link href="#rooms" className={cn(buttonVariants())}>
-                Browse 50 loops
+                Browse 50 stills
               </Link>
               <Link href="/drop" className={cn(buttonVariants({ variant: "outline" }))}>
                 Prepare the OpenSea drop
@@ -44,12 +44,12 @@ export default function Home() {
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={gifPath(featured.id)}
+              src={stillPath(featured.id)}
               alt={featured.name}
               className="aspect-square w-full object-cover"
             />
             <div className="bg-background/85 px-3 py-2 text-xs">
-              <p className="tracking-[0.16em] text-primary uppercase">Now looping</p>
+              <p className="tracking-[0.16em] text-primary uppercase">Now showing</p>
               <p className="font-heading text-base">{featured.name}</p>
             </div>
           </Link>
@@ -57,9 +57,9 @@ export default function Home() {
       </section>
 
       <section className="mx-auto grid w-full max-w-6xl gap-6 px-4 py-12 sm:grid-cols-3 sm:px-6">
-        <Stat label="Pieces" value="50 unique loops" />
+        <Stat label="Pieces" value="50 unique stills" />
         <Stat label="Edition" value="Open / unlimited" />
-        <Stat label="Loop" value={collection.loop} />
+        <Stat label="Medium" value={collection.medium} />
       </section>
 
       <GalleryGrid />

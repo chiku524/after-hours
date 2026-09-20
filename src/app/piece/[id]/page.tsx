@@ -5,7 +5,6 @@ import { buttonVariants } from "@/components/ui/button";
 import {
   collection,
   getPiece,
-  gifPath,
   metadataPath,
   padId,
   pieces,
@@ -60,13 +59,13 @@ export default async function PiecePage({
         <div className="scan-frame overflow-hidden rounded-2xl bg-black ring-1 ring-foreground/10">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={gifPath(piece.id)}
+            src={stillPath(piece.id)}
             alt={piece.name}
             className="aspect-square w-full object-cover"
           />
         </div>
         <p className="mt-3 text-[11px] tracking-[0.16em] text-muted-foreground uppercase">
-          Looping GIF · {collection.loop} · hover-free, always on
+          Still PNG · square master
         </p>
       </div>
 
@@ -101,18 +100,11 @@ export default async function PiecePage({
 
         <div className="mt-8 flex flex-wrap gap-3">
           <a
-            href={gifPath(piece.id)}
-            download={`${padId(piece.id)}-${piece.name}.gif`}
+            href={stillPath(piece.id)}
+            download={`${padId(piece.id)}-${piece.name}.png`}
             className={cn(buttonVariants())}
           >
-            Download GIF
-          </a>
-          <a
-            href={stillPath(piece.id)}
-            download={`${padId(piece.id)}-still.png`}
-            className={cn(buttonVariants({ variant: "outline" }))}
-          >
-            Still PNG
+            Download PNG
           </a>
           <a
             href={metadataPath(piece.id)}

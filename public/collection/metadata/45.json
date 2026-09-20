@@ -1,8 +1,7 @@
 {
   "name": "After Hours #45 — Indoor Night Pool",
-  "description": "Water holding the lights still. Outside the glass wall, the real weather keeps working. After Hours is a 50-piece open edition. Token 45 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 2.4-second analog loops with grain, weather, and lamp flicker.",
-  "image": "ipfs://YOUR_CID/45.gif",
-  "animation_url": "ipfs://YOUR_CID/45.gif",
+  "description": "Water holding the lights still. Outside the glass wall, the real weather keeps working. After Hours is a 50-piece open edition. Token 45 is unlimited: anyone can mint this still. After Hours is a 50-piece open edition of lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever.",
+  "image": "ipfs://YOUR_CID/piece-45.png",
   "external_url": "https://afterhours.open/piece/45",
   "background_color": "100e0c",
   "attributes": [
@@ -43,8 +42,8 @@
       "value": "Open Edition"
     },
     {
-      "trait_type": "Loop",
-      "value": "2.4s / 10fps"
+      "trait_type": "Medium",
+      "value": "Still PNG"
     }
   ]
 }

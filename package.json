@@ -6,8 +6,7 @@
     "dev": "next dev --port 43147 --hostname 127.0.0.1",
     "build": "next build",
     "start": "next start --port 43147 --hostname 127.0.0.1",
-    "lint": "eslint",
-    "animate": "node scripts/animate-collection.mjs"
+    "lint": "eslint"
   },
   "dependencies": {
     "@base-ui/react": "^1.8.0",

@@ -1,8 +1,7 @@
 {
   "name": "After Hours #4 — Vinyl Basement",
-  "description": "Crates of records under a single warm bulb. The turntable is still spinning something you almost remember. After Hours is a 50-piece open edition. Token 4 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 2.4-second analog loops with grain, weather, and lamp flicker.",
-  "image": "ipfs://YOUR_CID/04.gif",
-  "animation_url": "ipfs://YOUR_CID/04.gif",
+  "description": "Crates of records under a single warm bulb. The turntable is still spinning something you almost remember. After Hours is a 50-piece open edition. Token 4 is unlimited: anyone can mint this still. After Hours is a 50-piece open edition of lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever.",
+  "image": "ipfs://YOUR_CID/piece-04.png",
   "external_url": "https://afterhours.open/piece/4",
   "background_color": "100e0c",
   "attributes": [
@@ -43,8 +42,8 @@
       "value": "Open Edition"
     },
     {
-      "trait_type": "Loop",
-      "value": "2.4s / 10fps"
+      "trait_type": "Medium",
+      "value": "Still PNG"
     }
   ]
 }

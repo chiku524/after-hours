@@ -18,7 +18,7 @@ const plex = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: `${collection.name} — 50 open edition lo-fi loops`,
+    default: `${collection.name} — 50 open edition lo-fi stills`,
     template: `%s · ${collection.name}`,
   },
   description: collection.description,
