@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #34 — Courtyard Frequencies",
+  "description": "Laundry, citrus pots, and a radio playing for the whole building whether they asked or not. After Hours is a 50-piece open edition. Token 34 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/34.gif",
+  "animation_url": "ipfs://YOUR_CID/34.gif",
+  "external_url": "https://afterhours.open/piece/34",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Courtyard"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Radio"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Crisscross string lights"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 82.2"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "11:08 PM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Communal quiet"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Fairy gold & courtyard teal"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

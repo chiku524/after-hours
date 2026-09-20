@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #24 — Alley Vending Glow",
+  "description": "A row of machines selling cold light. The cat already chose a flavor. After Hours is a 50-piece open edition. Token 24 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/24.gif",
+  "animation_url": "ipfs://YOUR_CID/24.gif",
+  "external_url": "https://afterhours.open/piece/24",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Alley"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Fog"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Stray cat"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Vending LEDs"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 89.1"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "1:33 AM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Backstreet"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Cyan & brick"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

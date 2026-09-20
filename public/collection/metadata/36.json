@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #36 — Tunnel of Fish",
+  "description": "After the last ticket. Fish commute overhead and the floor keeps rewriting light. After Hours is a 50-piece open edition. Token 36 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/36.gif",
+  "animation_url": "ipfs://YOUR_CID/36.gif",
+  "external_url": "https://afterhours.open/piece/36",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Aquarium"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Clear"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Rays"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Caustics"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "AM 1314"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "8:55 PM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Otherworld"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Ocean blue & gold"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

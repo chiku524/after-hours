@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "After Hours #1 — Tape Hiss, 2:14 AM",
+    "description": "A sleeping cat, a warm tuner, and rain writing on the glass. The tape has been looping since yesterday. After Hours is a 50-piece open edition. Token 1 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "01.gif",
+    "animation_url": "01.gif",
+    "external_url": "https://afterhours.open/piece/1",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Bedroom"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Calico cat"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Desk lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 89.7"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "2:14 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Hushed"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Teal & burnt orange"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #2 — Last Train Window",
+    "description": "The last car heading out of town. City lights smear into the rain and nobody claims the backpack. After Hours is a 50-piece open edition. Token 2 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "02.gif",
+    "animation_url": "02.gif",
+    "external_url": "https://afterhours.open/piece/2",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Train"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Forgotten backpack"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Overhead lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 1240"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:48 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "In transit"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Cobalt & amber"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #3 — Convenience Fog",
+    "description": "Fog against the automatic doors. The coffee is still too hot and the magazines have nobody to sell to. After Hours is a 50-piece open edition. Token 3 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "03.gif",
+    "animation_url": "03.gif",
+    "external_url": "https://afterhours.open/piece/3",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Konbini"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Fog"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Canned coffee"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Fluorescent"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 76.1"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "2:03 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Sterile calm"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Mint & warm yellow"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #4 — Vinyl Basement",
+    "description": "Crates of records under a single warm bulb. The turntable is still spinning something you almost remember. After Hours is a 50-piece open edition. Token 4 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "04.gif",
+    "animation_url": "04.gif",
+    "external_url": "https://afterhours.open/piece/4",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Record shop"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Dust motes"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Edison bulbs"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 91.3"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:20 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Dusty"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Tobacco & gold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #5 — Laundry on the Roof",
+    "description": "Sheets becoming flags. The city is a quiet instrument under the clotheslines. After Hours is a 50-piece open edition. Token 5 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "05.gif",
+    "animation_url": "05.gif",
+    "external_url": "https://afterhours.open/piece/5",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Rooftop"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Kettle"
+      },
+      {
+        "trait_type": "Light",
+        "value": "String lights"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 80.0"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:41 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Open air"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Silver-blue & peach"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #6 — Closing Time Pour",
+    "description": "Chairs already up. One cup left on the wood, rain rehearsing on the window. After Hours is a 50-piece open edition. Token 6 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "06.gif",
+    "animation_url": "06.gif",
+    "external_url": "https://afterhours.open/piece/6",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Cafe"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Last cup"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Shop lamps"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 82.5"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "10:59 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Tender"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Cream & espresso"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #7 — The Quiet Tank",
+    "description": "The only conversation left is bubbles. The rest of the apartment has gone dark on purpose. After Hours is a 50-piece open edition. Token 7 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "07.gif",
+    "animation_url": "07.gif",
+    "external_url": "https://afterhours.open/piece/7",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Apartment"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Orange fish"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Aquarium glow"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 810"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:07 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Submerged"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Aqua & plum"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #8 — Desk Lamp Botany",
+    "description": "Notes, tea, and a plant that has outgrown the assignment. The street outside is already asleep. After Hours is a 50-piece open edition. Token 8 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "08.gif",
+    "animation_url": "08.gif",
+    "external_url": "https://afterhours.open/piece/8",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Study"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Monstera"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Brass lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 88.1"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:22 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Focused"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Forest & honey"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #9 — Night Spin Cycle",
+    "description": "One machine still working. The rest of the night is a circle of glass and suds. After Hours is a 50-piece open edition. Token 9 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "09.gif",
+    "animation_url": "09.gif",
+    "external_url": "https://afterhours.open/piece/9",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Laundromat"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Blue laundry"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Machine windows"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 77.8"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:55 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Mechanical"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Powder blue & peach"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #10 — Empty High Score",
+    "description": "The high scores are still glowing for nobody. Coins sleep in the slots. After Hours is a 50-piece open edition. Token 10 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "10.gif",
+    "animation_url": "10.gif",
+    "external_url": "https://afterhours.open/piece/10",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Arcade"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Cabinets"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Cabinet neon"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 93.0"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "3:11 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Electric leftover"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Magenta & void"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #11 — Steam and Street Neon",
+    "description": "Mirror gone. The street is a pink smear through steam and an open window. After Hours is a 50-piece open edition. Token 11 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "11.gif",
+    "animation_url": "11.gif",
+    "external_url": "https://afterhours.open/piece/11",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Bathroom"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Steam"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Windowsill plant"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Pink neon"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 79.4"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:08 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Fogged"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Rose & slate"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #12 — After Encore Booth",
+    "description": "The song list is still lit. Nobody is brave enough for one more. After Hours is a 50-piece open edition. Token 12 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "12.gif",
+    "animation_url": "12.gif",
+    "external_url": "https://afterhours.open/piece/12",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Karaoke"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Two microphones"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Disco ball"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 86.2"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:44 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Post-chorus"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Purple & gold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #13 — Second Floor Stacks",
+    "description": "A green lamp keeping watch over towers of paper. Rain on the dormer like page turns. After Hours is a 50-piece open edition. Token 13 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "13.gif",
+    "animation_url": "13.gif",
+    "external_url": "https://afterhours.open/piece/13",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Bookstore"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Paperbacks"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Banker's lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 90.5"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "10:36 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Bookish"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Moss & parchment"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #14 — Fire Escape Tea",
+    "description": "Two cups, wet steel, and the building breathing through other people's lights. After Hours is a 50-piece open edition. Token 14 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "14.gif",
+    "animation_url": "14.gif",
+    "external_url": "https://afterhours.open/piece/14",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Fire escape"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Teapot"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Neighbor windows"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 81.7"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:53 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Between floors"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Rust & night blue"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #15 — Attic Frequency",
+    "description": "Boxes of cassettes and a deck that still believes in VU meters. Moths keep the beat. After Hours is a 50-piece open edition. Token 15 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "15.gif",
+    "animation_url": "15.gif",
+    "external_url": "https://afterhours.open/piece/15",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Attic"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Moths"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Bare bulb"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 1134"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "2:31 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Archived"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Amber & dusty lilac"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #16 — Snow at the Shelter",
+    "description": "The last bus is a rumor. Snow edits the timetable into white. After Hours is a 50-piece open edition. Token 16 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "16.gif",
+    "animation_url": "16.gif",
+    "external_url": "https://afterhours.open/piece/16",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Bus stop"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Snow"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Forgotten scarf"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Sodium lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 78.3"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:16 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Waiting"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Ice & sodium orange"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #17 — Glasshouse After Dark",
+    "description": "Tropical leaves holding the day's heat. Condensation turning the moon into a smear. After Hours is a 50-piece open edition. Token 17 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "17.gif",
+    "animation_url": "17.gif",
+    "external_url": "https://afterhours.open/piece/17",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Greenhouse"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Fog"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Lantern"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Moon through glass"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 84.9"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:27 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Humid"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Emerald & lantern gold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #18 — Red Light Studio",
+    "description": "Foam walls, a live mic, and a red lamp that forgot to go off. The mix is still warming up. After Hours is a 50-piece open edition. Token 18 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "18.gif",
+    "animation_url": "18.gif",
+    "external_url": "https://afterhours.open/piece/18",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Studio"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Condenser mic"
+      },
+      {
+        "trait_type": "Light",
+        "value": "On-air lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 92.4"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "3:02 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Armed"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Charcoal & signal red"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #19 — Instant Noodle Hour",
+    "description": "The only recipe that still works after midnight. A tiny TV snows on the counter. After Hours is a 50-piece open edition. Token 19 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "19.gif",
+    "animation_url": "19.gif",
+    "external_url": "https://afterhours.open/piece/19",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Kitchen"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Steam"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Ramen pot"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Fridge glow"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 954"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "3:00 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Domestic"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Chili red & cream"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #20 — Reserved Forever",
+    "description": "The reading room after closing. One chair still reserved for a person who became a rumor. After Hours is a 50-piece open edition. Token 20 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "20.gif",
+    "animation_url": "20.gif",
+    "external_url": "https://afterhours.open/piece/20",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Library"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Empty chair"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Green lamps"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 87.0"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "9:40 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Hallowed"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Oak & hunter green"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #21 — Level P3 Wind",
+    "description": "Wind across the top deck. The skyline does the talking; the car is just visiting. After Hours is a 50-piece open edition. Token 21 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "21.gif",
+    "animation_url": "21.gif",
+    "external_url": "https://afterhours.open/piece/21",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Parking roof"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Compact car"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Sodium lamps"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 76.8"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:17 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Windy"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Concrete & amber"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #22 — Boardwalk Closed",
+    "description": "Shutters down, ocean loud. The lights stayed on as a courtesy to nobody. After Hours is a 50-piece open edition. Token 22 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "22.gif",
+    "animation_url": "22.gif",
+    "external_url": "https://afterhours.open/piece/22",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Boardwalk"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Bicycle"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Carnival string lights"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 85.6"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:11 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Off-season"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Sea teal & carnival pink"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #23 — Hallway Ice Machine",
+    "description": "Patterned carpet going on forever. The ice machine is the hallway's only heartbeat. After Hours is a 50-piece open edition. Token 23 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "23.gif",
+    "animation_url": "23.gif",
+    "external_url": "https://afterhours.open/piece/23",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Hotel hallway"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Ice machine"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Flicker fluorescent"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 1422"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "2:46 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Liminal"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Mustard & burgundy"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #24 — Alley Vending Glow",
+    "description": "A row of machines selling cold light. The cat already chose a flavor. After Hours is a 50-piece open edition. Token 24 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "24.gif",
+    "animation_url": "24.gif",
+    "external_url": "https://afterhours.open/piece/24",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Alley"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Fog"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Stray cat"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Vending LEDs"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 89.1"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:33 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Backstreet"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Cyan & brick"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #25 — Window Booth Special",
+    "description": "The booth by the rain. Chrome, pie, and a clock that only tells neon. After Hours is a 50-piece open edition. Token 25 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "25.gif",
+    "animation_url": "25.gif",
+    "external_url": "https://afterhours.open/piece/25",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Diner"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Pie under glass"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Neon clock"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 94.7"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:01 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Chrome"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Cherry red & mint"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #26 — Channel Snow",
+    "description": "Every channel is weather. VHS spines watch the storm from the floor. After Hours is a 50-piece open edition. Token 26 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "26.gif",
+    "animation_url": "26.gif",
+    "external_url": "https://afterhours.open/piece/26",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Bedroom"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "CRT television"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Cathode snow"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 720"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "2:28 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Static"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Cathode blue & beige"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #27 — Twelve Plants, One Window",
+    "description": "A window that became a forest. The city is only allowed in as speckles. After Hours is a 50-piece open edition. Token 27 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "27.gif",
+    "animation_url": "27.gif",
+    "external_url": "https://afterhours.open/piece/27",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Apartment"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Houseplants"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Streetlight through leaves"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 83.3"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:52 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Overgrown"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Jungle & dusty pink"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #28 — Platform 7",
+    "description": "Tiles, a yellow line, and a light that might be a train. The bench is practicing patience. After Hours is a 50-piece open edition. Token 28 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "28.gif",
+    "animation_url": "28.gif",
+    "external_url": "https://afterhours.open/piece/28",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Subway"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Fog"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Empty bench"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Approach glow"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 80.9"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:36 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Echo"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Tile cream & warning yellow"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #29 — Unfinished Sketch",
+    "description": "A city half-drawn, ink still open. Polaroids of streets that already forgot their names. After Hours is a 50-piece open edition. Token 29 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "29.gif",
+    "animation_url": "29.gif",
+    "external_url": "https://afterhours.open/piece/29",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Studio desk"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Sketchbook"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Green glass shade"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 91.8"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:12 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "In progress"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Ink & lamp green"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #30 — Dashboard Rain",
+    "description": "Engine off, radio not. Rain on the windshield is the music video. After Hours is a 50-piece open edition. Token 30 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "30.gif",
+    "animation_url": "30.gif",
+    "external_url": "https://afterhours.open/piece/30",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Car"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Cassette case"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Dashboard glow"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 88.8"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:04 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Parked"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Amber & wet asphalt"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #31 — Shrine After Rain",
+    "description": "Lanterns still doing their job. Gravel shining, maple dripping, one umbrella off duty. After Hours is a 50-piece open edition. Token 31 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "31.gif",
+    "animation_url": "31.gif",
+    "external_url": "https://afterhours.open/piece/31",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Shrine"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Leaning umbrella"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Stone lanterns"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 77.1"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "10:18 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Washed"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Vermillion & wet stone"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #32 — Dial-Up Midnight",
+    "description": "A whole room of machines dreaming in color. Energy drinks keeping the chairs warm. After Hours is a 50-piece open edition. Token 32 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "32.gif",
+    "animation_url": "32.gif",
+    "external_url": "https://afterhours.open/piece/32",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Internet cafe"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "CRT rows"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Screensaver glow"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 1017"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "2:52 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Logged in"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Beige plastic & screen blue"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #33 — Wrapped Bouquets",
+    "description": "The shutter is halfway down. Flowers that didn't get adopted wait in paper coats. After Hours is a 50-piece open edition. Token 33 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "33.gif",
+    "animation_url": "33.gif",
+    "external_url": "https://afterhours.open/piece/33",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Flower shop"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Kraft bouquets"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Shop warmth"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 86.9"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "9:12 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Closing bloom"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Blush & kraft"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #34 — Courtyard Frequencies",
+    "description": "Laundry, citrus pots, and a radio playing for the whole building whether they asked or not. After Hours is a 50-piece open edition. Token 34 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "34.gif",
+    "animation_url": "34.gif",
+    "external_url": "https://afterhours.open/piece/34",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Courtyard"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Radio"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Crisscross string lights"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 82.2"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:08 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Communal quiet"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Fairy gold & courtyard teal"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #35 — Practice Room C",
+    "description": "The metronome is still. Sheet music stacked like unsent letters. After Hours is a 50-piece open edition. Token 35 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "35.gif",
+    "animation_url": "35.gif",
+    "external_url": "https://afterhours.open/piece/35",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Practice room"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Upright piano"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Window moon"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 90.0"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "10:44 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Held note"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Walnut & cream"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #36 — Tunnel of Fish",
+    "description": "After the last ticket. Fish commute overhead and the floor keeps rewriting light. After Hours is a 50-piece open edition. Token 36 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "36.gif",
+    "animation_url": "36.gif",
+    "external_url": "https://afterhours.open/piece/36",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Aquarium"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Rays"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Caustics"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 1314"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "8:55 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Otherworld"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Ocean blue & gold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #37 — Polaroid Wall",
+    "description": "A wall of nights already developed. The blinds slice the street into film stills. After Hours is a 50-piece open edition. Token 37 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "37.gif",
+    "animation_url": "37.gif",
+    "external_url": "https://afterhours.open/piece/37",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Bedroom"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Polaroids"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Fairy lights"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 79.9"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:29 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Remembered"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Tungsten & white border"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #38 — Coin Slot Storm",
+    "description": "A glass room built for weather. The receiver dangles like it almost had news. After Hours is a 50-piece open edition. Token 38 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "38.gif",
+    "animation_url": "38.gif",
+    "external_url": "https://afterhours.open/piece/38",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Phone booth"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Hanging receiver"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Booth lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 93.6"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:41 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Connected"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Booth gold & storm blue"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #39 — Cabin Glass",
+    "description": "Snow pines pressed to the glass. Inside, a stove and a record that knows how to last. After Hours is a 50-piece open edition. Token 39 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "39.gif",
+    "animation_url": "39.gif",
+    "external_url": "https://afterhours.open/piece/39",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Cabin"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Snow"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Vinyl player"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Wood stove"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 567"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "9:03 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Sheltered"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Pine & ember"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #40 — Gate B12",
+    "description": "The terminal practicing emptiness. A plane parked like a sleeping animal beyond the glass. After Hours is a 50-piece open edition. Token 40 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "40.gif",
+    "animation_url": "40.gif",
+    "external_url": "https://afterhours.open/piece/40",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Airport"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Forgotten suitcase"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Runway lights"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 84.4"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:19 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Delayed"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Terminal grey & runway blue"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #41 — Awning and Two Wheels",
+    "description": "A bike waiting out the weather. The awning does what roofs do, only smaller. After Hours is a 50-piece open edition. Token 41 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "41.gif",
+    "animation_url": "41.gif",
+    "external_url": "https://afterhours.open/piece/41",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Sidewalk"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Locked bicycle"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Shop window"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 81.0"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:23 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Passed by"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Awning red & puddle neon"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #42 — Projector Dust",
+    "description": "A movie with no actors, only dust. Floor cushions facing a rectangle of warmth. After Hours is a 50-piece open edition. Token 42 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "42.gif",
+    "animation_url": "42.gif",
+    "external_url": "https://afterhours.open/piece/42",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Loft"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Dust motes"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Projector beam"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 92.1"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "12:47 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Cinematic"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Gold beam & loft indigo"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #43 — Striped Pole Neon",
+    "description": "Mirrors rehearsing neon. The pole still spinning for a street with no haircuts left. After Hours is a 50-piece open edition. Token 43 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "43.gif",
+    "animation_url": "43.gif",
+    "external_url": "https://afterhours.open/piece/43",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Barbershop"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Lone comb"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Barber pole"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 78.8"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "10:07 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Closed-open"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Candy stripe & chrome"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #44 — Dormitory Desk",
+    "description": "Textbooks in a pile that counts as architecture. The lofted bed is a second sky. After Hours is a 50-piece open edition. Token 44 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "44.gif",
+    "animation_url": "44.gif",
+    "external_url": "https://afterhours.open/piece/44",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Dorm"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Instant coffee"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Fairy lights"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 87.6"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "1:03 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Due tomorrow"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Dorm navy & muted yellow"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #45 — Indoor Night Pool",
+    "description": "Water holding the lights still. Outside the glass wall, the real weather keeps working. After Hours is a 50-piece open edition. Token 45 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "45.gif",
+    "animation_url": "45.gif",
+    "external_url": "https://afterhours.open/piece/45",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Hotel pool"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Pool noodle"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Ceiling cans"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 85.1"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:39 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Chlorine hush"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Chlorine blue & hotel gold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #46 — On Air, Off Clock",
+    "description": "The city through blinds, a board of sliders, and a lamp that means someone is still talking. After Hours is a 50-piece open edition. Token 46 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "46.gif",
+    "animation_url": "46.gif",
+    "external_url": "https://afterhours.open/piece/46",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Radio booth"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Headphones"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Dim on-air lamp"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 95.2"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "3:33 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Broadcast"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Broadcast red & walnut"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #47 — Stall 19 Packing Up",
+    "description": "Tarps folding, lanterns lingering. The market turning back into a street. After Hours is a 50-piece open edition. Token 47 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "47.gif",
+    "animation_url": "47.gif",
+    "external_url": "https://afterhours.open/piece/47",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Night market"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Fruit crates"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Paper lanterns"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 1242"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "10:51 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Last sale"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Lantern amber & indigo"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #48 — Last Cat Asleep",
+    "description": "Cups empty, cats clocked out. Rain making the window the best seat in the house. After Hours is a 50-piece open edition. Token 48 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "48.gif",
+    "animation_url": "48.gif",
+    "external_url": "https://afterhours.open/piece/48",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Cat cafe"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Rain"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Sleeping cats"
+      },
+      {
+        "trait_type": "Light",
+        "value": "String lights"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 80.4"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "9:58 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Soft closed"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Cream & dusty rose"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #49 — Observatory Tea",
+    "description": "A dome cracked open for the sky. Two cups, one thermos, infinite internight. After Hours is a 50-piece open edition. Token 49 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "49.gif",
+    "animation_url": "49.gif",
+    "external_url": "https://afterhours.open/piece/49",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Observatory"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Clear"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Telescope"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Star slit"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "FM 76.3"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "2:09 AM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Looking up"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Navy & tea-steam gold"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  },
+  {
+    "name": "After Hours #50 — After the Bath",
+    "description": "Lockers and leftover steam. Somewhere past the noren, the water is still loud. After Hours is a 50-piece open edition. Token 50 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+    "image": "50.gif",
+    "animation_url": "50.gif",
+    "external_url": "https://afterhours.open/piece/50",
+    "background_color": "100e0c",
+    "attributes": [
+      {
+        "trait_type": "Setting",
+        "value": "Sento"
+      },
+      {
+        "trait_type": "Weather",
+        "value": "Steam"
+      },
+      {
+        "trait_type": "Companion",
+        "value": "Hanging towel"
+      },
+      {
+        "trait_type": "Light",
+        "value": "Warm bulbs"
+      },
+      {
+        "trait_type": "Signal",
+        "value": "AM 1485"
+      },
+      {
+        "trait_type": "Hour",
+        "value": "11:56 PM"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Rinsed"
+      },
+      {
+        "trait_type": "Palette",
+        "value": "Hinoki & steam white"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Open Edition"
+      },
+      {
+        "trait_type": "Loop",
+        "value": "2.4s / 10fps"
+      }
+    ]
+  }
+]

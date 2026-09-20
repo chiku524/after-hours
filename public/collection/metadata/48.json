@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #48 — Last Cat Asleep",
+  "description": "Cups empty, cats clocked out. Rain making the window the best seat in the house. After Hours is a 50-piece open edition. Token 48 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/48.gif",
+  "animation_url": "ipfs://YOUR_CID/48.gif",
+  "external_url": "https://afterhours.open/piece/48",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Cat cafe"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Sleeping cats"
+    },
+    {
+      "trait_type": "Light",
+      "value": "String lights"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 80.4"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "9:58 PM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Soft closed"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Cream & dusty rose"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

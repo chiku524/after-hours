@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #29 — Unfinished Sketch",
+  "description": "A city half-drawn, ink still open. Polaroids of streets that already forgot their names. After Hours is a 50-piece open edition. Token 29 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/29.gif",
+  "animation_url": "ipfs://YOUR_CID/29.gif",
+  "external_url": "https://afterhours.open/piece/29",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Studio desk"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Clear"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Sketchbook"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Green glass shade"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 91.8"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "1:12 AM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "In progress"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Ink & lamp green"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

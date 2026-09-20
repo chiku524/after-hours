@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #5 — Laundry on the Roof",
+  "description": "Sheets becoming flags. The city is a quiet instrument under the clotheslines. After Hours is a 50-piece open edition. Token 5 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/05.gif",
+  "animation_url": "ipfs://YOUR_CID/05.gif",
+  "external_url": "https://afterhours.open/piece/5",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Rooftop"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Clear"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Kettle"
+    },
+    {
+      "trait_type": "Light",
+      "value": "String lights"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 80.0"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "12:41 AM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Open air"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Silver-blue & peach"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #44 — Dormitory Desk",
+  "description": "Textbooks in a pile that counts as architecture. The lofted bed is a second sky. After Hours is a 50-piece open edition. Token 44 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/44.gif",
+  "animation_url": "ipfs://YOUR_CID/44.gif",
+  "external_url": "https://afterhours.open/piece/44",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Dorm"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Clear"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Instant coffee"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Fairy lights"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 87.6"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "1:03 AM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Due tomorrow"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Dorm navy & muted yellow"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

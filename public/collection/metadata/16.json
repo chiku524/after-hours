@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #16 — Snow at the Shelter",
+  "description": "The last bus is a rumor. Snow edits the timetable into white. After Hours is a 50-piece open edition. Token 16 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/16.gif",
+  "animation_url": "ipfs://YOUR_CID/16.gif",
+  "external_url": "https://afterhours.open/piece/16",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Bus stop"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Forgotten scarf"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Sodium lamp"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 78.3"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "1:16 AM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Waiting"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Ice & sodium orange"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

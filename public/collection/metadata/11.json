@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #11 — Steam and Street Neon",
+  "description": "Mirror gone. The street is a pink smear through steam and an open window. After Hours is a 50-piece open edition. Token 11 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/11.gif",
+  "animation_url": "ipfs://YOUR_CID/11.gif",
+  "external_url": "https://afterhours.open/piece/11",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Bathroom"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Steam"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Windowsill plant"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Pink neon"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 79.4"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "12:08 AM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Fogged"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Rose & slate"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

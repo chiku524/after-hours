@@ -1,0 +1,50 @@
+{
+  "name": "After Hours #30 — Dashboard Rain",
+  "description": "Engine off, radio not. Rain on the windshield is the music video. After Hours is a 50-piece open edition. Token 30 is unlimited: anyone can mint this loop. After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/30.gif",
+  "animation_url": "ipfs://YOUR_CID/30.gif",
+  "external_url": "https://afterhours.open/piece/30",
+  "background_color": "100e0c",
+  "attributes": [
+    {
+      "trait_type": "Setting",
+      "value": "Car"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "Companion",
+      "value": "Cassette case"
+    },
+    {
+      "trait_type": "Light",
+      "value": "Dashboard glow"
+    },
+    {
+      "trait_type": "Signal",
+      "value": "FM 88.8"
+    },
+    {
+      "trait_type": "Hour",
+      "value": "12:04 AM"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Parked"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Amber & wet asphalt"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Open Edition"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "2.4s / 10fps"
+    }
+  ]
+}

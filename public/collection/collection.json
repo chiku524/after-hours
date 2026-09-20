@@ -1,0 +1,16 @@
+{
+  "name": "After Hours",
+  "symbol": "AFT",
+  "description": "After Hours is a 50-piece open edition of looping lo-fi rooms. Each piece is its own unlimited ERC-1155: rain on glass, desk lamps, last trains, and the kind of quiet you can mint forever. Hand-illustrated stills, then animated into 3-second analog loops with grain, weather, and lamp flicker.",
+  "image": "ipfs://YOUR_CID/cover.png",
+  "banner_image": "ipfs://YOUR_CID/banner.png",
+  "external_link": "https://afterhours.open",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "YOUR_WALLET_ADDRESS",
+  "drop": {
+    "type": "open-edition",
+    "standard": "ERC-1155",
+    "supply": "Unlimited",
+    "pieces": 50
+  }
+}
